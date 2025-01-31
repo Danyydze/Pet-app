@@ -1,13 +1,13 @@
 //
-//  CoffeeUITests.swift
-//  CoffeeUITests
+//  Test_iOSUITests.swift
+//  Test-iOSUITests
 //
-//  Created by Данил Марков on 29.01.2025.
+//  Created by Данил Марков on 12.11.2024.
 //
 
 import XCTest
 
-final class CoffeeUITests: XCTestCase {
+final class Test_iOSUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,13 +1,13 @@
 //
-//  CoffeeUITestsLaunchTests.swift
-//  CoffeeUITests
+//  Test_iOSUITestsLaunchTests.swift
+//  Test-iOSUITests
 //
-//  Created by Данил Марков on 29.01.2025.
+//  Created by Данил Марков on 12.11.2024.
 //
 
 import XCTest
 
-final class CoffeeUITestsLaunchTests: XCTestCase {
+final class Test_iOSUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
